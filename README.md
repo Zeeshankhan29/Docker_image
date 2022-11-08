@@ -86,7 +86,7 @@ docker run -p 5000:800 -e PORT=800 <docker image id>/<repository name>
 ```
 
 To check running docker containers
-````
+```
 docker ps
 ```
 
